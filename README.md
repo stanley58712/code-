@@ -1,1 +1,1 @@
-# code-
+generating sine wave
